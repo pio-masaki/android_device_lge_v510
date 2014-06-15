@@ -22,7 +22,7 @@
 // MINOR CLASS: PALM SIZE PC/PDA
 #define BTA_DM_COD {0x1A, 0x01, 0x14}
 
-#define BTM_DEF_LOCAL_NAME   "LG GPad"
+#define BTM_DEF_LOCAL_NAME   "LG GPad GPE"
 #define BTA_DISABLE_DELAY 1000 /* in milliseconds */
 #define BTA_HOST_INTERLEAVE_SEARCH TRUE
 #define PAN_NAP_DISABLED TRUE
