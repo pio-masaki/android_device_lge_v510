@@ -118,7 +118,7 @@ BOARD_HOSTAPD_PRIVATE_LIB := lib_driver_cmd_$(BOARD_WLAN_DEVICE)
 
 TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
 TARGET_RECOVERY_LCD_BACKLIGHT_PATH := \"/sys/class/leds/lcd-backlight/brightness\"
-TARGET_RECOVERY_FSTAB = device/lge/v510/fstab.gvar
+TARGET_RECOVERY_FSTAB = device/lge/v510/fstab.palman
 
 BOARD_HAS_NO_SELECT_BUTTON := true
 
