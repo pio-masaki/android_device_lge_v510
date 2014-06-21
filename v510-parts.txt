@@ -1,0 +1,23 @@
+/dev/block/platform/msm_sdcc.1/by-name
+lrwxrwxrwx root     root              1970-07-26 13:13 DDR -> /dev/block/mmcblk0p25
+lrwxrwxrwx root     root              1970-07-26 13:13 aboot -> /dev/block/mmcblk0p7
+lrwxrwxrwx root     root              1970-07-26 13:13 abootb -> /dev/block/mmcblk0p14
+lrwxrwxrwx root     root              1970-07-26 13:13 boot -> /dev/block/mmcblk0p21
+lrwxrwxrwx root     root              1970-07-26 13:13 cache -> /dev/block/mmcblk0p28
+lrwxrwxrwx root     root              1970-07-26 13:13 crypto -> /dev/block/mmcblk0p26
+lrwxrwxrwx root     root              1970-07-26 13:13 fsg -> /dev/block/mmcblk0p23
+lrwxrwxrwx root     root              1970-07-26 13:13 grow -> /dev/block/mmcblk0p30
+lrwxrwxrwx root     root              1970-07-26 13:13 imgdata -> /dev/block/mmcblk0p15
+lrwxrwxrwx root     root              1970-07-26 13:13 metadata -> /dev/block/mmcblk0p18
+lrwxrwxrwx root     root              1970-07-26 13:13 misc -> /dev/block/mmcblk0p16
+lrwxrwxrwx root     root              1970-07-26 13:13 modem -> /dev/block/mmcblk0p1
+lrwxrwxrwx root     root              1970-07-26 13:13 modemst1 -> /dev/block/mmcblk0p19
+lrwxrwxrwx root     root              1970-07-26 13:13 modemst2 -> /dev/block/mmcblk0p20
+lrwxrwxrwx root     root              1970-07-26 13:13 pad -> /dev/block/mmcblk0p8
+lrwxrwxrwx root     root              1970-07-26 13:13 persist -> /dev/block/mmcblk0p17
+lrwxrwxrwx root     root              1970-07-26 13:13 recovery -> /dev/block/mmcblk0p22
+lrwxrwxrwx root     root              1970-07-26 13:13 rpm -> /dev/block/mmcblk0p5
+lrwxrwxrwx root     root              1970-07-26 13:13 rpmb -> /dev/block/mmcblk0p12
+lrwxrwxrwx root     root              1970-07-26 13:13 sbl1 -> /dev/block/mmcblk0p2
+lrwxrwxrwx root     root              1970-07-26 13:13 sbl1b -> /dev/block/mmcblk0p9
+lrwxrwxrwx root     root              1970-07-26 13:13 sbl2 -> /dev/block/mmcblk0p3
