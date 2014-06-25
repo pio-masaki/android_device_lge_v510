@@ -35,7 +35,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
         $(LOCAL_PATH)/init.awifi.usb.rc:root/init.awifi.usb.rc \
 	$(LOCAL_PATH)/init.awifi.rc:root/init.awifi.rc \
-	$(LOCAL_PATH)/fstab.gvar:root/fstab.awifi \
+	$(LOCAL_PATH)/fstab.palman:root/fstab.awifi \
 	$(LOCAL_PATH)/ueventd.awifi.rc:root/ueventd.awifi.rc
 
 PRODUCT_COPY_FILES += \
