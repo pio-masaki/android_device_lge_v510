@@ -1,5 +1,13 @@
-TO DO:
-Verify partition layout - Should be the same, but do not flash a build until verified!
-Verify partition sizing - M8 GPE vs Sense has smaller /system for example. Do not flash until verified!
+Status
+===============
+Verified BOOTING
+Verified working except WiFi as of 7/1/14
+Will bootloop on reboot
 
-...probably tons more.
+TO DO:
+=============
+Verify the following = GPS, BT, Audio in all forms, internel speakers/mic/headphone/headset/hdmi/dock/BT/etc, hardware acceleration/playback, light/prox/g sensors, full shakedown needed.
+
+Figure out the bootlooping on reboot, factory reset will make it boot, cache wipe only will NOT.
+
+Maybe more, I'm tired.
