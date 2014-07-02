@@ -2,7 +2,7 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 
 PRODUCT_NAME := full_v510
-PRODUCT_DEVICE := v510
+PRODUCT_DEVICE := palman
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-V510
 PRODUCT_MANUFACTURER := LGE

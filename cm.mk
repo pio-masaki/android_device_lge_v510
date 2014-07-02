@@ -9,7 +9,7 @@ $(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
 $(call inherit-product, device/lge/v510/v510.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := v510
+PRODUCT_DEVICE := palman
 PRODUCT_NAME := cm_v510
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-V510
