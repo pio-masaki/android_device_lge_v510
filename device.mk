@@ -59,7 +59,7 @@ PRODUCT_COPY_FILES += \
 
 # Prebuilt input device calibration files
 PRODUCT_COPY_FILES += \
-	$(LOCAL_PATH)/touch_mxt1188S.idc:system/usr/idc/touch_mxt1188S.idc
+	$(LOCAL_PATH)/touch_dev.idc:system/usr/idc/touch_dev.idc
 
 # These are the hardware-specific features
 PRODUCT_COPY_FILES += \
