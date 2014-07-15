@@ -25,7 +25,7 @@
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-import init.awifi.usb.rc
+import init.palman.usb.rc
 
 on post-fs-data
 
