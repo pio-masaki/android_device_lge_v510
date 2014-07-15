@@ -75,7 +75,7 @@ on early-fs
     mkdir /mpt 0775 system system
     mkdir /factory 0775 system system
     mkdir /sns 0775 system system
-    mount_all fstab.awifi
+    mount_all fstab.palman
 
     wait /dev/block/mmcblk0p1
     mount vfat /dev/block/mmcblk0p1 /firmware ro umask=002 shortname=lower
